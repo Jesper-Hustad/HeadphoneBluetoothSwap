@@ -74,5 +74,5 @@ to keep the shortcut allways working
 
 # Issues
 - Unfortunately the IFTTT system is a bit slow (~8 seconds), if there is a faster (and still simple) way please let me know!
-- In my experience IFTTT only works if the your screens phone is on
+- In my experience IFTTT only works if the your phones screen is on
 - By default Windows does not like running batch files, it gives a lot of warnings 
