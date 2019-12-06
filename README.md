@@ -2,7 +2,7 @@
 A automated way to turn off your phones Bluetooth and evoke auto-connect Bluetooth with pc
 
 # How it works
-- Send a signal using IFTTT webhooks to turn of bluetooth on your phone  
+- Send a signal using IFTTT webhooks to turn off bluetooth on your phone  
 - On the computer turn Bluetooth off and on (without this windows won't autoconnect to the headphones when they become available)
 
 
